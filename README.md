@@ -1,5 +1,7 @@
 # Sequential Candle Patterns
 
+![Candlestick pattern detection](candlestick_pattern_detection.gif)
+
 ## Overview
 
 **Sequential Candle Patterns** is an ML-based framework for identifying recurring candlestick formations from **OHLCV market data**. The project combines deterministic technical definitions with supervised learning to investigate whether sequential price-action structures can be represented and recognized from numerical market data.
